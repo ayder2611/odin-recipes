@@ -1,0 +1,30 @@
+*{
+    background-color: #140c0c;
+    color: #fff;
+    text-align: center;
+    font-family: Courier, "New Lucida", monospace;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 700px;
+}
+
+h1{
+    font-size: 36px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+a:hover{
+    color: yellow;
+}
